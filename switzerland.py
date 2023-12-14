@@ -76,7 +76,7 @@ st.set_page_config(
   page_icon = ":heart:"
 )
 
-st.title("Heart Disease Classification")
+st.title("Switzerland Heart Disease")
 st.write("_Using Decision Tree Classifier_")
 st.write(f"**Model's Accuracy**: :red[**{min_accuracy}%**] - :orange[**{max_accuracy}%**] (_Needs improvement! :red[Do not copy outright]_)")
 st.write("\n")
