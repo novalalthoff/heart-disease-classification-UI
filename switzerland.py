@@ -72,7 +72,7 @@ max_accuracy = np.max(accuracy_list)
 
 # STREAMLIT
 st.set_page_config(
-  page_title = "Heart Disease Classification",
+  page_title = "Switzerland Heart Disease",
   page_icon = ":heart:"
 )
 
